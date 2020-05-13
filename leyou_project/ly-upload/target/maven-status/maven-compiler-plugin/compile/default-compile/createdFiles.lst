@@ -1,0 +1,5 @@
+com\wangshuai\UploadApplication.class
+com\wangshuai\service\UploadService.class
+com\wangshuai\config\UploadProperties.class
+com\wangshuai\config\FastClientImporter.class
+com\wangshuai\web\UploadController.class

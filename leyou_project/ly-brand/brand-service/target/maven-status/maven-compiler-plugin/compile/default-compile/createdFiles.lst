@@ -1,0 +1,5 @@
+com\wangshuai\web\BrandController.class
+com\wangshuai\service\imp\BrandService.class
+com\wangshuai\service\IBrandService.class
+com\wangshuai\dao\IBrandDao.class
+com\wangshuai\BrandApplication.class

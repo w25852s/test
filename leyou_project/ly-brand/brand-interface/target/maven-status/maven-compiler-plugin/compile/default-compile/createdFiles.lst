@@ -1,0 +1,4 @@
+com\wangshuai\api\BrandAPI.class
+com\wangshuai\BrandInterfaceApplication.class
+com\wangshuai\bean\PageRequest.class
+com\wangshuai\bean\Brand.class

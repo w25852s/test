@@ -1,0 +1,4 @@
+com\wangshuai\EsApplication.class
+com\wangshuai\client\SkuClient.class
+com\wangshuai\repository\Goods.class
+com\wangshuai\client\CategoryClient.class

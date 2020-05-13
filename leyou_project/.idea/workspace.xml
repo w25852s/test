@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f78a213b-5740-4f40-a0cc-479c2db952f1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ly.registry/target/" />
+    <ignored path="$PROJECT_DIR$/ly_getway/target/" />
+    <ignored path="$PROJECT_DIR$/ly-item/target/" />
+    <ignored path="$PROJECT_DIR$/ly-item/ly-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ly-item/ly-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/ly-utils/target/" />
+    <ignored path="$PROJECT_DIR$/brand-service/target/" />
+    <ignored path="$PROJECT_DIR$/brand-service/brand-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ly-brand/brand-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ly-brand/brand-service/target/" />
+    <ignored path="$PROJECT_DIR$/ly-brand/target/" />
+    <ignored path="$PROJECT_DIR$/ly-upload/target/" />
+    <ignored path="$PROJECT_DIR$/ly-item/item-bean/target/" />
+    <ignored path="$PROJECT_DIR$/ly-elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/ly-user/target/" />
+    <ignored path="$PROJECT_DIR$/ly-sms/target/" />
+    <ignored path="$PROJECT_DIR$/ly-user/ly-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ly-user/ly-user-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="90" column="60" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/ItemServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/SkuController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/SmsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/mq/ListenMQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/sms/SendMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1265">
+              <caret line="73" column="45" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly_getway/src/main/java/com/wangshuai/GetWayApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly_getway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly.registry/src/main/java/com/wangshuai/LyRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ly-sms/src/test/java/com/wangshuai/test/SendTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>serviceUrl</find>
+      <find>default_executionTimeoutInMilliseconds</find>
+      <find>tb_item</find>
+      <find>Bindable</find>
+      <find>STRING_STRING_MAP</find>
+      <find>tb_order_sta</find>
+      <find>tb_promotion</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/ISpecificationService.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/imp/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/wangshuai/bean/SpecParams.java" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/main/java/com/wangshuai/client/BrandClient.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/CategoryController.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/ICategoryService.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/imp/CategoryServiceImp.java" />
+        <option value="$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java/com/wangshuai/bean/api/CategoryAPI.java" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/main/java/com/wangshuai/pojo/Goods.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" />
+        <option value="$PROJECT_DIR$/ly-utils/src/main/java/com/wangshuai/utils/JsonUtils.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9e6fd3f5-061a-4a0b-85d1-4c48e9e54be9/console_6.sql" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/main/java/com/wangshuai/pojo/GroupParam.java" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/main/java/com/wangshuai/pojo/GroupParamList.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9e6fd3f5-061a-4a0b-85d1-4c48e9e54be9/console_7.sql" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/main/java/com/wangshuai/pojo/Param.java" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/main/java/com/wangshuai/service/GoodService.java" />
+        <option value="$PROJECT_DIR$/ly-elasticsearch/src/test/java/com/wangshuai/GoodsRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/bean/User.java" />
+        <option value="$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/dao/service/UserService.java" />
+        <option value="$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/dao/IUserMapper.java" />
+        <option value="$PROJECT_DIR$/ly-utils/src/main/java/com/wangshuai/enum1/ExceptionEnum.java" />
+        <option value="$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/service/UserService.java" />
+        <option value="$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/UserApplication.java" />
+        <option value="$PROJECT_DIR$/ly-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/mq/LinstenMQ.java" />
+        <option value="$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/SmsApplication.java" />
+        <option value="$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/config/SendMessageProperties.java" />
+        <option value="$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/mq/ListenMQ.java" />
+        <option value="$PROJECT_DIR$/ly-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/ly-sms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/sms/SendMessage.java" />
+        <option value="$PROJECT_DIR$/ly-sms/src/test/java/com/wangshuai/test/RedistTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ly-user/pom.xml" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-interface/src/main/java/com/wangshuai/bean.java" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/UserApplication.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9e6fd3f5-061a-4a0b-85d1-4c48e9e54be9/console_8.sql" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-interface/src/main/java/com/wangshuai/bean/User.java" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/service/UserService.java" />
+        <option value="$PROJECT_DIR$/ly-sms/src/test/java/com/wangshuai/test/SendTest.java" />
+        <option value="$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/web/UserController.java" />
+        <option value="$PROJECT_DIR$/ly_getway/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\User\.m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="290" />
+    <option name="y" value="110" />
+    <option name="width" value="1300" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly.registry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly.registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly.registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly.registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly.registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-brand" type="462c0819:PsiDirectoryNode" />
+              <item name="brand-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangshuai" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user" type="462c0819:PsiDirectoryNode" />
+              <item name="ly-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly_getway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly_getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly_getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ly_getway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588578625071" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ly-utils/src/main/java/com/wangshuai" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2448037" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wangshuai.bean" />
+      <recent name="com.wangshuai.web" />
+      <recent name="com.wangshuai.service.imp" />
+      <recent name="com.wangshuai.ItemDao" />
+      <recent name="com.wangshuai.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\leyou_project\ly-item\ly-item-interface\src\main\java\com\wangshuai\bean\api" />
+      <recent name="C:\Users\User\IdeaProjects\leyou_project\ly-item\item-bean\src\main\java" />
+      <recent name="C:\Users\User\IdeaProjects\leyou_project\ly-utils\src\main\java\com\wangshuai\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.getwayApplication">
+    <configuration name="RedistTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangshuai.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangshuai.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wangshuai.test.RedistTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendTest.sendTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangshuai.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangshuai.test" />
+      <option name="MAIN_CLASS_NAME" value="com.wangshuai.test.SendTest" />
+      <option name="METHOD_NAME" value="sendTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrandApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brand-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangshuai.BrandApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangshuai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangshuai.ItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lyregistry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangshuai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangshuai.LyRegistry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangshuai.SmsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangshuai.UploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangshuai.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangshuai.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly_getway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangshuai.GetWayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RedistTest.test1" />
+      <item itemvalue="JUnit.SendTest.sendTest" />
+      <item itemvalue="Spring Boot.BrandApplication" />
+      <item itemvalue="Spring Boot.UploadApplication" />
+      <item itemvalue="Spring Boot.SmsApplication" />
+      <item itemvalue="Spring Boot.getwayApplication" />
+      <item itemvalue="Spring Boot.ItemServiceApplication" />
+      <item itemvalue="Spring Boot.LyRegistry" />
+      <item itemvalue="Spring Boot.UserApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ItemServiceApplication" />
+        <item itemvalue="Spring Boot.LyRegistry" />
+        <item itemvalue="Spring Boot.UserApplication (1)" />
+        <item itemvalue="JUnit.SendTest.sendTest" />
+        <item itemvalue="JUnit.RedistTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f78a213b-5740-4f40-a0cc-479c2db952f1" name="Default Changelist" comment="" />
+      <created>1586082434616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586082434616</updated>
+      <workItem from="1586082437518" duration="2079000" />
+      <workItem from="1586141630903" duration="1025000" />
+      <workItem from="1586152977315" duration="8459000" />
+      <workItem from="1586266353586" duration="4330000" />
+      <workItem from="1586439053456" duration="4049000" />
+      <workItem from="1586519434555" duration="2574000" />
+      <workItem from="1586561034021" duration="2188000" />
+      <workItem from="1586581475298" duration="5278000" />
+      <workItem from="1586586841642" duration="11870000" />
+      <workItem from="1586651819478" duration="24065000" />
+      <workItem from="1586780287007" duration="1003000" />
+      <workItem from="1586781598392" duration="470000" />
+      <workItem from="1586782312228" duration="276000" />
+      <workItem from="1586782869693" duration="3151000" />
+      <workItem from="1586865609974" duration="5944000" />
+      <workItem from="1586947832251" duration="10534000" />
+      <workItem from="1587038335650" duration="4208000" />
+      <workItem from="1587125594168" duration="597000" />
+      <workItem from="1587171657655" duration="2943000" />
+      <workItem from="1587190012645" duration="630000" />
+      <workItem from="1587213366178" duration="2169000" />
+      <workItem from="1587256426307" duration="7322000" />
+      <workItem from="1587275503406" duration="17350000" />
+      <workItem from="1587384723803" duration="9063000" />
+      <workItem from="1587466787288" duration="6819000" />
+      <workItem from="1587557423519" duration="780000" />
+      <workItem from="1587644878900" duration="4575000" />
+      <workItem from="1587774370776" duration="1238000" />
+      <workItem from="1587804735547" duration="586000" />
+      <workItem from="1587903337017" duration="595000" />
+      <workItem from="1587989013100" duration="3172000" />
+      <workItem from="1588074444067" duration="4928000" />
+      <workItem from="1588297069078" duration="11720000" />
+      <workItem from="1588516490835" duration="1454000" />
+      <workItem from="1588560296962" duration="626000" />
+      <workItem from="1588578103344" duration="518000" />
+      <workItem from="1588768038928" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SendTest_sendTest - 2020.05.01 at 11h 09m 24s.xml">
+      <configuration name="SendTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SendTest_sendTest - 2020.05.01 at 11h 10m 30s.xml">
+      <configuration name="SendTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SendTest_sendTest - 2020.05.01 at 11h 11m 10s.xml">
+      <configuration name="SendTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SendTest_sendTest - 2020.05.01 at 11h 13m 21s.xml">
+      <configuration name="SendTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SendTest_sendTest - 2020.05.01 at 11h 17m 20s.xml">
+      <configuration name="SendTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SendTest_sendTest - 2020.05.01 at 11h 17m 53s.xml">
+      <configuration name="SendTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedistTest_test1 - 2020.05.01 at 11h 25m 58s.xml">
+      <configuration name="RedistTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedistTest_test1 - 2020.05.01 at 11h 26m 26s.xml">
+      <configuration name="RedistTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedistTest_test1 - 2020.05.01 at 11h 27m 31s.xml">
+      <configuration name="RedistTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SendTest_sendTest - 2020.05.01 at 11h 28m 40s.xml">
+      <configuration name="SendTest.sendTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169168000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4890351" visible="true" weight="0.22184986" />
+      <window_info id="Structure" order="1" sideWeight="0.51096493" side_tool="true" weight="0.23123324" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37623763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45120227" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2291372" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.35643566" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.427157" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.308311" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3632708" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4893918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.45544556" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-brand/brand-service/src/main/java/com/wangshuai/web/BrandController.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-upload/src/main/java/com/wangshuai/service/UploadService.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/SpecificationController.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/SpuController.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/GoodController.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-utils/src/main/java/com/wangshuai/advice/CommonExceptionHandler.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/imp/GoodsService.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/imp/GoodsService.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/imp/GoodsService.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/SkuController.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/service/imp/GoodsService.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-brand/brand-service/src/main/java/com/wangshuai/web/BrandController.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/CategoryController.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-elasticsearch/src/main/java/com/wangshuai/pojo/Param.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-elasticsearch/src/test/java/com/wangshuai/GoodsRepositoryTest.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/sms/SendMessage.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/sms/SendMessage.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/SpecificationController.java</url>
+          <line>37</line>
+          <properties class="com.wangshuai.web.SpecificationController" method="saveParam">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="m" />
+        <watch expression="specs" />
+        <watch expression="((LinkedHashMap.Entry)((LinkedHashMap)groupParams.get(1)).entrySet().toArray()[0]).getKey()" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap" />
+        <watch expression="((LinkedHashMap.Entry)((LinkedHashMap)groupParams.get(1)).entrySet().toArray()[0]).getKey()" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap" />
+        <watch expression="specialMap" />
+        <watch expression="generigJson" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ly-user/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/controller/UserController.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/QueueBinding.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-utils/src/main/java/com/wangshuai/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/Exchange.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.5.RELEASE/spring-rabbit-2.0.5.RELEASE.jar!/org/springframework/amqp/rabbit/annotation/Queue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/4.4.6/aliyun-java-sdk-core-4.4.6-sources.jar!/com/aliyuncs/http/HttpResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.0.5.RELEASE/spring-amqp-2.0.5.RELEASE-sources.jar!/org/springframework/amqp/core/AmqpTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-core/4.4.6/aliyun-java-sdk-core-4.4.6-sources.jar!/com/aliyuncs/CommonResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#5268#5269#0" expanded="true" />
+            <element signature="e#5345#5346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/config/SendMessageProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="134" column="4" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.22/lombok-1.16.22-sources.jar!/lombok/extern/slf4j/Slf4j.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/src/test/java/com/wangshuai/test/RedistTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="35" column="83" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.8.RELEASE/spring-messaging-5.0.8.RELEASE.jar!/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/src/main/java/com/wangshuai/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-interface/src/main/java/com/wangshuai/bean.java" />
+    <entry file="das://9e6fd3f5-061a-4a0b-85d1-4c48e9e54be9/schema/test/table/tb_user.sql" />
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-spring/1.0.4/mapper-spring-1.0.4.jar!/tk/mybatis/spring/annotation/MapperScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-brand/brand-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="212" column="16" selection-start-line="212" selection-start-column="16" selection-end-line="212" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-utils/src/main/java/com/wangshuai/enum1/ExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9e6fd3f5-061a-4a0b-85d1-4c48e9e54be9/console_8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" lean-forward="true" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9e6fd3f5-061a-4a0b-85d1-4c48e9e54be9/schema/test/table/tb_user" />
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-interface/src/main/java/com/wangshuai/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-user/ly-user-service/src/main/java/com/wangshuai/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="90" column="60" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/ItemServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/SmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/mq/ListenMQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/src/main/java/com/wangshuai/sms/SendMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="73" column="45" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly_getway/src/main/java/com/wangshuai/GetWayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly_getway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly.registry/src/main/java/com/wangshuai/LyRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-sms/src/test/java/com/wangshuai/test/SendTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/wangshuai/web/SkuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2448037" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ly-user</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2448037" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

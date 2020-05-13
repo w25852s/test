@@ -1,0 +1,47 @@
+server:
+  port: 10010
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+
+
+spring:
+  application:
+    name: ly_getway
+
+ribbon:
+  ReadTimeout: 2000
+  ConnectionTimeout: 500
+  MaxAutoRetries: 0
+  MaxAutoRetriesNextServer: 0
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 5000
+zuul:
+  routes:
+    hehe:
+      path: /item/**
+      serviceId: item-service
+    haha:
+       path: /brand/**
+       serviceId: brand-service
+    upload-service: /upload/**
+    user-service : /user/**
+    
+
+
+  prefix:  /api
+
+
+
+
+
+
+
+
